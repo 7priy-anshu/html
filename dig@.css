@@ -1,0 +1,448 @@
+@media screen and ( max-width: 420px){
+
+    .header-top{
+       background-color: #262626;
+       width: 100%;
+    }
+ 
+    .header-top-img{
+       width: 128px;
+    }
+    .header-top-btn{
+       width: 90px;
+    }
+    .navbar-{
+       width: 100%;
+    }
+    .navbar-logo{
+       width: 70%;
+    }
+    .navbar-logo-img{
+       margin-left:-20px ;
+    }
+    .nav-bar{
+       display: none;
+    }
+    .navbar-click-btn{
+       display: none;
+    }
+    .navbar-click i{
+       display: block;
+       margin-top: 23px;
+       margin-left: 38px;
+    }
+    #mob{
+       display: none;
+       color: #FFFFFF;
+       width: 100px;
+       min-height: 500px;
+       margin: 10px;
+    }
+                                          /*       /* section */  
+      
+     .bg{
+       width: 100%px;
+        background-image: url(img/bg__img3.png);
+        height: 300px;
+        background-size: cover;
+     
+     }           
+     
+     .bg-text{
+       width: 350px;
+       height: 335px;
+     
+     }
+     .bg-text div{
+       margin-top: 20px;
+       
+     }
+     .bg-text h1{
+       line-height: 34px;
+       width: 90%;
+       font-size: 32px;
+       height: 40px;
+     }
+     .bg-text p{
+       width: 98%; 
+       margin-top: 40px;
+       font-size: 14px;    
+     }
+     .bg-btn{
+       width: 100%;
+       margin-top: 20px;
+       margin-left: 8px;
+       height: 35px;
+     }
+     .bg-btn-{
+       width: 100%;
+       margin-top: 10px;
+       margin-left: 8px;
+       height: 35px;
+     }
+ 
+ 
+                         
+     .section-blur{
+           width: calc(100% - 30px);
+           height: 423px;
+     }
+ .bg-img{
+    width: 100%;
+ }
+ .bg1{
+    width: 100%;
+    height: 500px;
+ }
+ .bg1-h2{
+    width: 80%;
+    font-size: 25px;
+    margin-top: -30px ;
+    line-height: 25px;
+ }
+ .bg-logo{
+    width: 100%;
+   justify-items: normal;
+   
+ }
+ .bg-img1{
+    
+    width: 150px;
+    margin-top: -20px;
+    padding-left: 20px;
+    padding-right: 20px;
+ }
+ .attach{
+    width: 100%;
+ 
+    height: calc(245px + 394px);
+ }
+ 
+ .attach-img{
+    margin-top: -350px;
+ width: 400px;
+ position: relative;
+ height: 285px;
+    
+ }
+ .a-img{
+   width: calc(100% - 30px);
+   height: 250px;
+   
+ }
+ 
+ 
+ 
+ .attach-text{
+    position: absolute;
+    width: 420px;
+    height: 245px;
+   margin-top: 290px;
+    /* background-color: #c94c4c; */
+ }
+ .attach-text h6{
+   
+    font-size: 12px;
+    margin-top: -20px;
+ }
+ .attach-text h1{
+    width: 70%;
+    font-size: 22px;
+    margin-top: -10px;
+ }
+ .attach-text p{
+    width: 90%;
+    font-size:15px ;
+    margin-top: -10px;
+ }
+ .attach-btn{
+  width: 120px;
+  font-size: 9px;
+  height: 40px;
+  margin:7px 0px 0px 0px ;
+ }
+ .vision{
+    width: 100%;
+    height: 800px;
+ }
+ .div1{
+    width: 395px;
+    height: 350px;
+    left: -40px;
+ }
+ 
+ .div1-img{
+    width: 395px;
+    height: 350px;
+ }
+ .text-{
+    width: 95%;
+    height: 200px;
+    left: 10px;
+    margin-top:-10px ;
+     
+ }
+ .text- h5{
+    font-size: 14px;
+    padding-bottom: 5px;
+    padding-bottom: 14px;
+ }
+ .text- p{
+    font-size: 13px;
+    width: 98%;
+    margin-top: 0px;
+ }
+ .text- h4{
+    font-size: 20px;
+    width: 95%;
+    margin-top: -0.5px;
+    line-height: 20px;
+    padding-bottom: 10px;
+ }
+ .text-btn{
+    margin-top: 20px;
+    width:140px;
+    height: 35px;
+ }
+ .div2{
+    /* display: none; */
+    left: -71px;
+    width: 395px;
+    margin-top: 20px;
+    height: 200px;
+ }
+ .text1 h5{
+    font-size: 12px;
+   
+ }
+ .text1 h6{
+    font-size: 23px;
+    width: 95%;
+    line-height: 23px;
+    margin-top: 10px;
+ }
+ .text1 p{
+    font-size: 17px;
+    width: 95%;
+    line-height: 18px;
+ }
+ 
+ 
+ .div3{
+    width: 395px;
+    height: 200px;
+    left: -71px;
+ }
+ .num{
+    height: 200px;
+ }
+ .num1{
+    flex-wrap: wrap;
+    height: 150px;
+ 
+ }
+ .num1 span{
+    border: none;
+    width: 130px;
+    height: 10px;
+    font-size: 20px;
+    word-spacing: 2px;
+ }
+ 
+ .blank{
+    width:100%;
+    height: 200px;
+ }
+ .blank h6{
+    font-size: 15px;
+ }
+ .blank h1{
+    font-size: 26px;
+    width: 75%;
+    margin-left: 15px;
+    line-height:27px;
+ }
+   .bigbox{
+    padding: 15px 15px 20px 15px ;
+   }
+ .border-box{
+    width: 400.19px;
+    height: 362.56px;
+ }
+ 
+ .box{
+    width:360px;
+     height: 332.56px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .box--{ 
+    flex-wrap: wrap;
+   background-image: url(img/bg_pattern.png);
+    width: 100%;
+    max-height: 1750px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .box-1{
+ width: 100%;
+ float: left;
+ height: 529px;
+ }
+ 
+ .box-1 h1{
+    width: 346px;
+    height: 86px;
+    font: 24px 'Outfit', sans-serif;
+ }
+ .box-1 p{
+    padding-top: 10px;
+    line-height: 26px;
+    width: 346px;
+    height: 97px ;
+    font: 14px  "Inter", sans-serif;
+ 
+ }
+ 
+ .box-xt{
+    width: 346px;
+    height: 200px;
+    
+ }
+ 
+ .xd{
+    width: 100%;
+    height: 30px;
+ }
+ 
+ 
+ .box-2{
+    width: 100%;
+    background-color: #fff;
+    height: 250px;
+    background-position: 00px;
+ }
+ 
+ 
+ .emty{
+    width: 100%;
+    height: 70px;
+ }
+ 
+ 
+ .blank-{
+    width:100%;
+    height: 200px;
+ }
+ .blank- h6{
+    font-size: 15px;
+ }
+ .blank- h1{
+    font-size: 26px;
+    width: 75%;
+    margin-left: 15px;
+    line-height:27px;
+ }
+ .blank- h1 span{
+  margin-left: 20px;
+ }
+ 
+ 
+  .freebox{
+    justify-items: normal;
+    flex-wrap: wrap;
+    height: 1500px;
+    padding-top:-110px ;
+  }
+ 
+  .free-box{
+    border-right: none;
+    width: 380px;
+    height: 320px;
+    border: 0.6px solid #b6acda15;
+    border-radius: 20px;
+  }
+   .free-box:nth-child(4){
+    border: 0.6px solid #b6acda15;
+   }
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  .logo{
+     color:#FFFFFF ;
+     color: #FFFFFF2B;
+   
+ 
+     color: #9B96B0;
+     color: #0F0520;
+     --e-global-color-7fbea4f: #18023A;
+     --e-global-color-c94d9ab: #2B2338;
+     --e-global-color-044b931: #0A0118;
+     --e-global-color-638d055: #0A0316;
+     --e-global-color-ec3c7a7: #B47CFD;
+     --e-global-color-3ee16e7: #FF7FC2;
+     --e-global-color-cfd5506: #FFB07B;
+  }
+  
+  
